@@ -1,0 +1,28 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+}
+.color-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+#login{
+  padding: 10% 30% 10% 30%;
+}
+.form-row{
+  padding: 2% 20% 0% 20%;
+}
+.form-label{
+  padding-top: 20px;
+
+}
+h5{
+  margin-bottom: 0px;
+}
+.admission-section{
+  text-align: left;
+}
+.day-checkbox{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
